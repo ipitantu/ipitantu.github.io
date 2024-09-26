@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ipitantu.github.io/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/app/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/assets/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/css/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/data/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/includes/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/item/sitemap.ipitantu.gz
+Sitemap: https://ipitantu.github.io/src/sitemap.ipitantu.gz
